@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://jesuslagares.com/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D16AQHWXn1i14Nx3g/profile-displaybackgroundimage-shrink_350_1400/0/1679946201093?e=1685577600&v=beta&t=BFw_mrFSoKCC92pg2_8RyEN93m4KSQ5fqvLy4jrMkKQ" alt="my banner"></a>
+</p>
+
 ### Hi there 👋
 
 <!--
