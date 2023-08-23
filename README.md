@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/damian-sebastian-silvera-collazo-/" target="_blank" rel="noreferrer"><img src="https://ibb.co/ynH3ynq" alt="my banner"></a>
-</p>
+  <a href="https://www.linkedin.com/in/damian-sebastian-silvera-collazo-/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/4ZhQTZp/banner.jpg" alt="my banner"></a></p>
 
 <h1 align="center">Hi 👋, I'm Damian Silvera Collazo</h1>
 <h3 align="center">Welcome to my GitHub profile! I am a software developer with a passion for programming and numbers. With a degree in finance, I have a strong foundation in analyzing data and making informed decisions. My objective is to use my skills in programming and finance to create innovative solutions and tackle complex problems. I am excited to showcase my projects and collaborate with other developers in the community.</h3>
