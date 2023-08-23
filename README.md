@@ -1,8 +1,20 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/damian-sebastian-silvera-collazo-/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/4ZhQTZp/banner.jpg" alt="my banner"></a></p>
 
-<h1 align="center">Hi 👋, I'm Damian Silvera Collazo</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a software developer with a passion for programming and numbers. With a degree in finance, I have a strong foundation in analyzing data and making informed decisions. My objective is to use my skills in programming and finance to create innovative solutions and tackle complex problems. I am excited to showcase my projects and collaborate with other developers in the community.</h3>
+<h1 align="center">Hola👋, soy Damian Silvera Collazo</h1>
+<h3 align="center">¡Bienvenido a mi perfil de GitHub! 
+  
+Soy un profesional con experiencia en el mundo de las finanzas y la tecnología. Mi formación académica incluye un grado en Administración Contabilidad y Finanzas de la Universidad de la República. A lo largo de mi carrera, he tenido la oportunidad de trabajar en proyectos de asesoría tanto para empresas públicas como para consultoras financieras, lo que me ha brindado una clara comprensión de la gestión financiera y estratégica.
+
+En mi búsqueda constante por nuevos desafios, me he reinventado como desarrollador Full Stack. He aplicado mis habilidades tanto en el frontend como en el backend para crear aplicaciones atractivas y funcionales. Esta transición me ha permitido fusionar mis conocimientos financieros con mi pasión por la tecnología, lo que resulta en soluciones innovadoras y centradas en el usuario.
+
+Mi enfoque va más allá, estoy comprometido con el trabajo en equipo y la colaboración. Creo en la importancia de la comunicación asertiva y la adaptabilidad en entornos dinámicos. Mi objetivo es formar parte de un equipo donde pueda aportar mis habilidades técnicas y mi visión estratégica para lograr los objetivos planteados.
+
+ ¡Espero con interés la posibilidad de conectar contigo y colaborar juntos en muchos proyectos!
+
+Te invito a conocer más sobre mi experiencia y formación en mi perfil de LinkedIn, donde podrás obtener una visión más completa de mi trayectoria profesional y las habilidades que puedo aportar a tu empresa. Estoy emocionado por seguir creciendo profesionalmente y encontrar nuevas oportunidades en las que pueda aportar valor. 
+
+¡Gracias por visitar mi perfil!</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
