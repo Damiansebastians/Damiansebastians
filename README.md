@@ -29,8 +29,7 @@ Te invito a conocer más sobre mi experiencia y formación en mi perfil de Linke
 ![](https://github-profile-trophy.vercel.app/?username=damiansebastians&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Contáctame:
 <a href="https://www.linkedin.com/in/damian-sebastian-silvera-collazo-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/damian-sebastian-silvera-collazo-/" height="30" width="40" /></a>
-</p>
+</h3>
 
