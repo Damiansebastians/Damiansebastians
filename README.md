@@ -12,8 +12,6 @@ Mi enfoque va más allá, estoy comprometido con el trabajo en equipo y la colab
 
 Si quieres charlar conmigo acerca de cualquier oportunidad, puedes utilizar esta misma vía o mi mail > damiansebastians@gmail.com.
 
-¡Gracias por visitar mi perfil!</h3>
-
 <h2 align="center">¡Gracias por visitar mi perfil!</h2>
 
 <h3 align="left">Lenguages & skills:</h3>
