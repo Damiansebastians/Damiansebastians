@@ -1,18 +1,26 @@
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/damian-sebastian-silvera-collazo-/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/4ZhQTZp/banner.jpg" alt="my banner"></a></p>
-
 <h1 align="center">¡Bienvenido a mi perfil de GitHub!</h1>
-  
-<h3 align="center">En mi búsqueda constante por nuevos desafios, me he reinventado como desarrollador Full Stack. He aplicado mis habilidades tanto en el frontend como en el backend para crear aplicaciones atractivas y funcionales. Esta transición me ha permitido fusionar mis conocimientos financieros con mi pasión por la tecnología, lo que resulta en soluciones innovadoras y centradas en el usuario.
 
-He trabajado con tecnologias del stack MERN (MongoBD, Express, React y Node), con conocimientos sólidos en diseño (CSS y Sass), backend (PHP y Laravel) y bases de datos (Relacionales y No Relacionales) para lograr soluciones integrales.
+<h3 align="center">
+Profesional con más de 5 años de experiencia en banca y tecnología, actualmente Analista Desarrollador SAP.
+</h3>
 
-Mi enfoque va más allá, estoy comprometido con el trabajo en equipo y la colaboración. Creo en la importancia de la comunicación asertiva y la adaptabilidad en entornos dinámicos. Mi objetivo es formar parte de un equipo donde pueda aportar mis habilidades técnicas y mi visión estratégica para lograr los objetivos planteados.
+<ul>
+  <li>SAP UI5 y Fiori para el desarrollo de interfaces de usuario intuitivas y responsivas</li>
+  <li>OData y CDS (Core Data Services) para la creación de servicios y modelado de datos</li>
+  <li>Cloud para soluciones basadas en la nube</li>
+  <li>ABAP para personalización y desarrollo backend dentro del sistema SAP</li>
+</ul>
 
-Si quieres charlar conmigo acerca de cualquier oportunidad, puedes utilizar esta misma vía o mi mail > damiansebastians@gmail.com.
+<h3>
+Experiencia en proyectos con tecnologías del stack MERN. Estas incluyen:
+</h3>
 
-<h2 align="center">¡Gracias por visitar mi perfil!</h2>
+<ul>
+  <li>MongoDB para la gestión de bases de datos NoSQL</li>
+  <li>Express.js para la creación de aplicaciones backend robustas</li>
+  <li>React para la construcción de interfaces de usuario interactivas</li>
+  <li>Node.js para el desarrollo del lado del servidor</li>
+</ul>
 
 <h3 align="center">Lenguages & skills:</h3>
 <div align="center"> 
@@ -24,7 +32,6 @@ Si quieres charlar conmigo acerca de cualquier oportunidad, puedes utilizar esta
   <img src="https://skillicons.dev/icons?i=typescript"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redux"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=php&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express"/>&nbsp;&nbsp;
@@ -33,12 +40,21 @@ Si quieres charlar conmigo acerca de cualquier oportunidad, puedes utilizar esta
   <img src="https://skillicons.dev/icons?i=aws&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git&theme=light"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github&theme=light"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jest&theme=light"/>&nbsp;&nbsp;
 </div>
+
+<h3 align="center">
+Mi enfoque va más allá, estoy comprometido con el trabajo en equipo y la colaboración. Creo en la importancia de la comunicación asertiva y la adaptabilidad en entornos dinámicos.
+</h3>
+
+<h3 align="center">
+Si quieres charlar conmigo acerca de cualquier oportunidad, puedes utilizar esta misma vía o mi mail > damiansebastians@gmail.com.
+</h3>
+
+<h2 align="center">¡Gracias por visitar mi perfil!</h2>
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=damiansebastians&theme=react&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=damiansebastians&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damiansebastians&theme=react&hide_border=true&exclude_repo=mirandaHotel-php-docker,mirandaHotel-php&hide=css,handlebars,blade&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
